@@ -20,8 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "ng build --prod"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +43,14 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshanpatel722/music-app-forntend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/roshanpatel722/music-app-forntend/issues"
+  },
+  "homepage": "https://github.com/roshanpatel722/music-app-forntend#readme"
 }
